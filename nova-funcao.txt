@@ -1,0 +1,5 @@
+//imagina que isso aqui seja uma nova funcao
+
+def funcao():
+	a = 1 + 1
+return a
